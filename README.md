@@ -1,2 +1,2 @@
 # javascript-snake-game
-Snake game using javascript
+Develop a Snake game using javascript, HTML and CSS
